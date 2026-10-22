@@ -1,0 +1,24 @@
+,value
+checking_account_none,1.6629
+saving_accounts_rich,0.8478
+checking_account_rich,0.7364
+saving_accounts_none,0.733
+duration,-0.5354
+purpose_education,-0.5225
+purpose_radio/tv,0.5205
+sex_male,0.3497
+job_unskilled_nonresident,-0.3397
+purpose_repairs,-0.3294
+saving_accounts_moderate,0.2664
+housing_own,0.2555
+checking_account_moderate,0.2457
+age,0.2415
+purpose_vacation/others,-0.2145
+saving_accounts_quite rich,0.1996
+purpose_furniture/equipment,0.1711
+log_credit_amount,0.1375
+purpose_domestic appliances,-0.1106
+housing_rent,-0.0975
+purpose_car,-0.051
+job_unskilled_resident,-0.0205
+job_skilled,0.0007

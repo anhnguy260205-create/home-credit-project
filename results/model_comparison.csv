@@ -1,0 +1,4 @@
+Model,CV AUC,CV AUC std,ROC AUC,Accuracy,Precision (good),Recall (good),F1 (good),Bad caught,Cost
+Logistic Regression,0.747,0.067,0.745,0.73,0.776,0.864,0.818,0.417,194
+Decision Tree,0.717,0.085,0.706,0.705,0.758,0.85,0.801,0.367,211
+Random Forest,0.759,0.069,0.756,0.76,0.774,0.929,0.844,0.367,200

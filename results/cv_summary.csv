@@ -1,0 +1,4 @@
+Model,auc mean,auc std,accuracy mean,accuracy std,f1 mean,f1 std,bad_caught mean,bad_caught std,cost mean,cost std,auc 95% range
+Logistic Regression,0.748,0.031,0.733,0.021,0.823,0.014,0.37,0.062,204.66,17.938,0.694 - 0.807
+Decision Tree,0.715,0.033,0.719,0.025,0.811,0.022,0.38,0.11,205.04,26.671,0.655 - 0.776
+Random Forest,0.761,0.032,0.745,0.02,0.836,0.014,0.324,0.058,213.18,16.036,0.709 - 0.820
